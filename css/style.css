@@ -22,7 +22,7 @@ svg{
 }
 /* END of svg */
 
-/* section */
+/* sections */
 h2 {
     color: #067083;
     text-transform: uppercase;
@@ -40,4 +40,14 @@ h2 {
 }
 .two p {
     padding: 2% 0 5% 12%;
+}
+/* END of section */
+
+/* Footer */
+footer {
+    background: #000000;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 3%;
+    height: 100px;
 }
