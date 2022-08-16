@@ -7,6 +7,8 @@
 /* Header */
 .theme-title {
     background: linear-gradient(#09abc9, #042128);
+    width: auto;
+    height: 300px;
 }
 
 .theme-title h1 {
