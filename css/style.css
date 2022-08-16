@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Header */
+.theme-title {
+    background: linear-gradient(#09abc9, #042128);
+}
