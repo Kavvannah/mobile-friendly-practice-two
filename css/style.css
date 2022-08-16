@@ -21,3 +21,23 @@ svg{
     padding-top: 250px;
 }
 /* END of svg */
+
+/* section */
+h2 {
+    color: #067083;
+    text-transform: uppercase;
+}
+.one {
+    text-align: left;
+    padding-left: 12%;
+}
+.one p {
+    padding: 2% 12% 5% 0;  
+}
+.two {
+    text-align: right;
+    padding-right: 12%;
+}
+.two p {
+    padding: 2% 0 5% 12%;
+}
