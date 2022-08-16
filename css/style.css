@@ -8,3 +8,9 @@
 .theme-title {
     background: linear-gradient(#09abc9, #042128);
 }
+
+.theme-title h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto, sans-serif';
+}
