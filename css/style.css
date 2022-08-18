@@ -17,8 +17,25 @@
 
 /* svg */
 svg{
-    background: linear-gradient(#09abc9, #042128);
     padding-top: 250px;
+}
+
+@media screen and (max-width: 480px) {
+.waves {
+    background: linear-gradient(#9b4cb5, #042128)
+}
+}
+
+@media screen and (min-width: 768px) {
+.waves {
+    background: linear-gradient(#529a3c, #042128)
+}
+}
+
+@media screen and (max-width: 1024px) {
+.waves {
+    background: linear-gradient(#09abc9, #042128)
+}
 }
 /* END of svg */
 
